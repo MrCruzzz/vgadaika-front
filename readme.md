@@ -15,12 +15,12 @@ README.md (Документація до проєкту Telegram Game Bot)
 
 2. Налаштування середовища:
    - Клонуйте репозиторій:
-     git clone https://github.com/yourusername/telegram-game-bot.git
+     
      cd telegram-game-bot
    - Ініціалізуйте проєкт:
-     npm init -y
+     
    - Встановіть залежності:
-     npm install express node-telegram-bot-api
+     
    - Створіть файл index.js та додайте базовий код:
 Код для index.js
 const express = require("express");
