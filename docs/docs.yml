@@ -1,0 +1,2 @@
+- name: Generate documentation
+  run: npx jsdoc -c jsdoc.json
